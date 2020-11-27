@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: idsmanager.com
+Owner-Name: BeiJing JZYT
+Implementation-Version: 1.1.1
+Archiver-Version: Plexus Archiver
+Built-By: WLI
+Specification-Vendor: idsmanager.com
+Implementation-BuildNumber: 1.1.1
+Created-By: Apache Maven 3.1.0
+Build-Jdk: 1.8.0_40
+Implementation-Vendor: idsmanager.com
+
